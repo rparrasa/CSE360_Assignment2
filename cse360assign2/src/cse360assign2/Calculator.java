@@ -26,7 +26,7 @@ public class Calculator {
 	
 	public void divide (int value) {
 	
-		if (value == 0) // divides total by parameter and if parameter equals 0 then total equals 0.
+		if (value == 0)// divides total by parameter and if parameter equals 0 then total equals 0.
 		{
 			total = 0;
 		
