@@ -38,6 +38,6 @@ public class Calculator {
 	}
 	
 	public String getHistory () {
-		return ""; 
+		return ""; //remains unchanged
 	}
 }
